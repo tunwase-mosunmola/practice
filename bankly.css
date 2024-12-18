@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.rightnav{
+    display: flex;
+}
+.links, a{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    text-decoration: none;
+}
+.navbuttons{
+    padding: 10px;
+    border-radius: 10px;
+    border: 10px;
+    background-color: transparent;
+    

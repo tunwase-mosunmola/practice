@@ -1,0 +1,38 @@
+
+div img{
+    float: left;
+    width: 120px;
+}
+nav{
+    float: left;
+}
+ul li{
+    list-style: none;
+    float: right;
+    margin: 10px;
+    padding: 10px;
+}
+button{
+    float: right;
+    color: color black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#vmp{
+    background-color: blue;
+    color: white;
+}
+#left{
+    float: left;
+    border-radius: 4px;
+    background-color: rgb(12, 12, 227);
+}

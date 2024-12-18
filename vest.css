@@ -1,0 +1,22 @@
+*{
+
+}
+div img{
+    float: left;
+    width: 230px;
+}
+nav{
+    float: left;
+}
+ul li{
+    float: right;
+    list-style: none;
+    padding: 10px;
+    margin: 8px;
+}
+button{
+    float: right;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
